@@ -1837,8 +1837,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.23.0</FileVersion>
-        <ProductVersion>4.8.23.0</ProductVersion>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARWithholdingTaxReportV1.dll</FileName>
@@ -2342,8 +2342,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARCreditNote.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARCreditNoteDeducted.dll</FileName>
@@ -2442,8 +2442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCDeliveryJobOrder.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCDepositSlip.dll</FileName>
@@ -2472,8 +2472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCGoodsIssue.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCGoodsIssueV2.dll</FileName>
@@ -2527,8 +2527,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInvoiceVerRefBilling.dll</FileName>
-        <FileVersion>4.8.32.1</FileVersion>
-        <ProductVersion>4.8.32.1</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCJobOrderDetail.dll</FileName>
@@ -2632,8 +2632,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCServiceOrder.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCSimCost.dll</FileName>
@@ -6622,8 +6622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.185.0</FileVersion>
-        <ProductVersion>4.8.185.0</ProductVersion>
+        <FileVersion>4.8.186.0</FileVersion>
+        <ProductVersion>4.8.186.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -7027,8 +7027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.216.0</FileVersion>
-        <ProductVersion>4.8.216.0</ProductVersion>
+        <FileVersion>4.8.220.0</FileVersion>
+        <ProductVersion>4.8.220.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -7982,8 +7982,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.43.0</FileVersion>
-        <ProductVersion>4.8.43.0</ProductVersion>
+        <FileVersion>4.8.44.0</FileVersion>
+        <ProductVersion>4.8.44.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARWithholdingTaxReportV1.dll</FileName>
@@ -11842,8 +11842,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.74.0</FileVersion>
-        <ProductVersion>4.8.74.0</ProductVersion>
+        <FileVersion>4.8.75.0</FileVersion>
+        <ProductVersion>4.8.75.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
@@ -15366,6 +15366,16 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -15377,6 +15387,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_BILLINGR-INVOICEVER.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_COMMERCIAL_INVOICE.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15396,12 +15411,52 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V2.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15426,7 +15481,32 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15551,7 +15631,32 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\FIWHTAPFORM_DTC-FIWHTAPFORM.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTANDTAXCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTANDTAXORIGINAL.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15562,6 +15667,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTORIGINALANDCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTTAXCOPY.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15701,7 +15811,17 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\RPT_ANT_PO04.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\RPT_APCREDITFORM_APCREDIT.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_APDEBITFORM_APDebitNote.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15712,6 +15832,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_APINVOICEFORM_APINVOICE_APD1.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTENOREFREPORT_CREDIT-NOT-DTC - Copy.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15892,6 +16017,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_GOODSRECEIVEREPORT_GR-DTC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_GOODSRECEIVEREPORT_GR-DTC_NoCost.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -16127,6 +16257,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\SERVICEJOBORDERREPORT_JOB_ORDER_SERVICE_V3.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\SERVICEORDERREPORT_JOB_ORDER_SERVICE_V3.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
