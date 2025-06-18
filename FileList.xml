@@ -2852,8 +2852,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.APSTATESTDForm_V2.dll</FileName>
-        <FileVersion>4.8.39.0</FileVersion>
-        <ProductVersion>4.8.39.0</ProductVersion>
+        <FileVersion>4.8.40.0</FileVersion>
+        <ProductVersion>4.8.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.ARCN_ARDNFORM.dll</FileName>
@@ -7742,8 +7742,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Reservation.dll</FileName>
-        <FileVersion>4.8.23.0</FileVersion>
-        <ProductVersion>4.8.23.0</ProductVersion>
+        <FileVersion>4.8.26.0</FileVersion>
+        <ProductVersion>4.8.26.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Serial.dll</FileName>
