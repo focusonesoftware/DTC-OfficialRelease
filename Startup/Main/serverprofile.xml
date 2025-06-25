@@ -1,9 +1,45 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-   <ApplicationID>5009</ApplicationID>
-    <ApplicationName>FocusOne ERP For DTC</ApplicationName>
-    <Host>10.255.255.190</Host>
-    <Port>5009</Port>
+   <ApplicationID>9031</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC AR</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9031</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9002</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC BGP</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9002</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC URG</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9041</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC AP</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9041</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9051</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC GLCO</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9051</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9061</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC PURIV</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9061</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9090</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC RPBG</ApplicationName>
+    <Host>10.255.255.166</Host>
+    <Port>9090</Port>
   </Connection>
 </DocumentElement>
