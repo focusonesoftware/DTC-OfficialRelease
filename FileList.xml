@@ -6947,8 +6947,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.dll</FileName>
-        <FileVersion>4.8.64.0</FileVersion>
-        <ProductVersion>4.8.64.0</ProductVersion>
+        <FileVersion>4.8.65.0</FileVersion>
+        <ProductVersion>4.8.65.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CSSimDetailManageMent.dll</FileName>
@@ -11842,8 +11842,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.164.0</FileVersion>
-        <ProductVersion>4.8.164.0</ProductVersion>
+        <FileVersion>4.8.166.0</FileVersion>
+        <ProductVersion>4.8.166.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
